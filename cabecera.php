@@ -40,7 +40,7 @@ https://templatemo.com/tm-559-zay-shop
                 </div>
                 <div>
                     <a class="text-light" href="https://www.facebook.com/DannasRG" target="_blank" rel="sponsored"><i class="fab fa-facebook-f fa-sm fa-fw me-2"></i></a>
-                    <a class="text-light" href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram fa-sm fa-fw me-2"></i></a>
+                    <a class="text-light" href="https://www.instagram.com/dannagt502/" target="_blank"><i class="fab fa-instagram fa-sm fa-fw me-2"></i></a>
                     <a class="text-light" href="https://www.tiktok.com/@dannagt502" target="_blank"><i class="fab fa-tiktok fa-sm fa-fw me-2"></i></a>
                 </div>
             </div>

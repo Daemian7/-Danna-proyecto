@@ -34,7 +34,7 @@ https://templatemo.com/tm-559-zay-shop
                     <ul class="list-unstyled text-light footer-link-list">
                         <li>
                             <i class="fas fa-map-marker-alt fa-fw"></i>
-                            Inserte una direccion aqui
+                            6ta calle 9-77 zona 1 Retalhuleu , Retalhuleu, Guatemala
                         </li>
                         <li>
                             <i class="fa fa-phone fa-fw"></i>
@@ -61,8 +61,6 @@ https://templatemo.com/tm-559-zay-shop
                     <h2 class="h2 text-light border-bottom pb-3 border-light">Nosotros</h2>
                     <ul class="list-unstyled text-light footer-link-list">
                         <li><a class="text-decoration-none" href="#">Inicio</a></li>
-                        <li><a class="text-decoration-none" href="#">Acerca de</a></li>
-                        <li><a class="text-decoration-none" href="#">Tienda</a></li>
                         <li><a class="text-decoration-none" href="#">Contacto</a></li>
                     </ul>
                 </div>
@@ -76,18 +74,15 @@ https://templatemo.com/tm-559-zay-shop
                 <div class="col-auto me-auto">
                     <ul class="list-inline text-left footer-icons">
                         <li class="list-inline-item border border-light rounded-circle text-center">
-                            <a class="text-light text-decoration-none" target="_blank" href="http://facebook.com/"><i class="fab fa-facebook-f fa-lg fa-fw"></i></a>
+                            <a class="text-light text-decoration-none" target="_blank" href="https://www.facebook.com/DannasRG"><i class="fab fa-facebook-f fa-lg fa-fw"></i></a>
                         </li>
                         <li class="list-inline-item border border-light rounded-circle text-center">
-                            <a class="text-light text-decoration-none" target="_blank" href="https://www.instagram.com/"><i class="fab fa-instagram fa-lg fa-fw"></i></a>
+                            <a class="text-light text-decoration-none" target="_blank" href="https://www.instagram.com/dannagt502/"><i class="fab fa-instagram fa-lg fa-fw"></i></a>
                         </li>
                         <li class="list-inline-item border border-light rounded-circle text-center">
-                            <a class="text-light text-decoration-none" target="_blank" href="https://twitter.com/"><i class="fab fa-twitter fa-lg fa-fw"></i></a>
+                            <a class="text-light text-decoration-none" target="_blank" href="https://www.tiktok.com/@dannagt502"><i class="fab fa-tiktok fa-lg fa-fw"></i></a>
                         </li>
-                        <li class="list-inline-item border border-light rounded-circle text-center">
-                            <a class="text-light text-decoration-none" target="_blank" href="https://www.linkedin.com/"><i class="fab fa-linkedin fa-lg fa-fw"></i></a>
-                        </li>
-                    </ul>
+                        </ul>
                 </div>
               
             </div>
