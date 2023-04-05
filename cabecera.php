@@ -41,8 +41,7 @@ https://templatemo.com/tm-559-zay-shop
                 <div>
                     <a class="text-light" href="https://www.facebook.com/DannasRG" target="_blank" rel="sponsored"><i class="fab fa-facebook-f fa-sm fa-fw me-2"></i></a>
                     <a class="text-light" href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram fa-sm fa-fw me-2"></i></a>
-                    <a class="text-light" href="https://twitter.com/" target="_blank"><i class="fab fa-twitter fa-sm fa-fw me-2"></i></a>
-                    <a class="text-light" href="https://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin fa-sm fa-fw"></i></a>
+                    <a class="text-light" href="https://www.tiktok.com/@dannagt502" target="_blank"><i class="fab fa-tiktok fa-sm fa-fw me-2"></i></a>
                 </div>
             </div>
         </div>
@@ -84,8 +83,7 @@ https://templatemo.com/tm-559-zay-shop
                     </a>
              
 
-                    <a class="nav-icon position-relative text-decoration-none" href="carrito.php" name="carrito" 
-                    value="agregar" type="submit"> 
+                    <a class="nav-icon position-relative text-decoration-none" href="carrito.php"> 
                         <i class="fa fa-fw fa-cart-arrow-down text-dark mr-1"></i>
                         <span class="position-absolute top-0 left-100 translate-middle badge rounded-pill bg-light text-dark"></span>
                     </a>

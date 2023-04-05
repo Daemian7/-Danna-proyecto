@@ -3,6 +3,17 @@ include 'cabecera.php';
 include 'config.php';
  ?>
   <!-- Start Content -->
+
+  <div class="container">
+<br>
+<div class="alert alert-success">
+    <?php print_r($_POST); ?>
+    <a href="#" class="badge badge-success">Ver carrito</a>
+</div>
+
+  </div>
+
+
     <div class="container py-5">
         <div class="row">
 
@@ -56,6 +67,7 @@ include 'config.php';
                         </div>
                     </div>
                 </div>
+
                 <div class="row">
                     <div class="col-md-4">
                         <div class="card mb-4 product-wap rounded-0">
@@ -64,18 +76,13 @@ include 'config.php';
                                 <div class="card-img-overlay rounded-0 product-overlay d-flex align-items-center justify-content-center">
                                     <ul class="list-unstyled">
                                         <li><a class="btn btn-success text-white mt-2" href="shop-single.html"><i class="far fa-eye"></i></a></li>
-                                        <li><a class="btn btn-success text-white mt-2" href="carrito.php"><i class="fas fa-cart-plus"></i></a></li>
+                                        <li><a class="btn btn-success text-white mt-2" href="carrito.php"><i class="fas fa-cart-plus" name="carrito"
+                                        id="carrito" value="submit"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="card-body">
-                    <form action="" method="post">
-                    <input type="text" name="id" id="id" value="<?php echo openssl_encrypt($producto['ID'],COD,KEY); ?>">
-                    <input type="text" name="nombre" id="nombre" value="<?php echo openssl_encrypt($producto['Nombre'],COD,KEY); ?>">
-                    <input type="text" name="precio" id="precio" value="<?php echo openssl_encrypt($producto['Precio'],COD,KEY); ?>">
-                    <input type="text" name="cantidad" id="cantidad" value="<?php echo openssl_encrypt(1,COD,KEY); ?>">
-
-                    </form> 
+                   
                     
                                 <a href="shop-single.html" class="h3 text-decoration-none">Vestido Verde con flores blancas</a>
                                 <ul class="w-100 list-unstyled d-flex justify-content-between mb-0">
@@ -98,6 +105,17 @@ include 'config.php';
                                     </li>
                                 </ul>
                                 <p class="text-center mb-0">Q250.00</p>
+
+                                <form action="" method="post">
+                    <input type="text" name="id" id="id" value="<?php echo openssl_encrypt($producto['ID'],COD,KEY); ?>">
+                    <input type="text" name="nombre" id="nombre" value="<?php echo openssl_encrypt($producto['Nombre'],COD,KEY); ?>">
+                    <input type="text" name="precio" id="precio" value="<?php echo openssl_encrypt($producto['Precio'],COD,KEY); ?>">
+                    <input type="text" name="cantidad" id="cantidad" value="<?php echo openssl_encrypt(1,COD,KEY); ?>">
+                    <button class="btn btn-primary" name="btncarrito" value="agregar" type="submit">
+                        Agregar al carrito
+                    </button>
+                    </form> 
+                               
                             </div>
                         </div>
                     </div>
